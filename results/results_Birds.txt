@@ -1,0 +1,101 @@
+SAUID	SAUlevel	SAU	ECID	EClevel	EcosystemComponent	EQR	prop	Status	Conf	ConfClass
+2	2	SEA-001: Kattegat	2	2	Birds	0.3	0	sub-GES	0.8689	High
+3	2	SEA-002: Great Belt	2	2	Birds	0.3	0	sub-GES	0.8438	High
+4	2	SEA-003: The Sound	2	2	Birds	0.3	0	sub-GES	0.8438	High
+5	2	SEA-004: Kiel Bay	2	2	Birds	0.3	0.3	sub-GES	0.8962	High
+6	2	SEA-005: Bay of Mecklenburg	2	2	Birds	0.3	0.3	sub-GES	0.8962	High
+7	2	SEA-006: Arkona Basin	2	2	Birds	0.3	0.3	sub-GES	0.8962	High
+8	2	SEA-007: Bornholm Basin	2	2	Birds	0.3	0.3	sub-GES	0.8962	High
+9	2	SEA-008: Gdansk Basin	2	2	Birds	0.3	0.416666666666667	sub-GES	0.9284	High
+10	2	SEA-009: Eastern Gotland Basin	2	2	Birds	0.3	0.416666666666667	sub-GES	0.9284	High
+11	2	SEA-010: Western Gotland Basin	2	2	Birds	0.3	0.416666666666667	sub-GES	0.9284	High
+12	2	SEA-011: Gulf of Riga	2	2	Birds	0.3	0.416666666666667	sub-GES	0.9284	High
+13	2	SEA-012: Northern Baltic Proper	2	2	Birds	0.3	0.666666666666667	sub-GES	0.9818	High
+14	2	SEA-013: Gulf of Finland	2	2	Birds	0.3	0.6	sub-GES	0.9592	High
+15	2	SEA-014: Åland Sea	2	2	Birds	0.3	0.666666666666667	sub-GES	0.9818	High
+16	2	SEA-015: Bothnian Sea	2	2	Birds	0.3	0.333333333333333	sub-GES	1	High
+17	2	SEA-016: The Quark	2	2	Birds	0.3	0.333333333333333	sub-GES	1	High
+18	2	SEA-017: Bothnian Bay	2	2	Birds	0.3	0.333333333333333	sub-GES	1	High
+2	2	SEA-001: Kattegat	7	3	Grazing birds	0.3	0.285714285714286	sub-GES	0.8571	High
+2	2	SEA-001: Kattegat	8	3	Wading birds	0.3	0.4	sub-GES	0.95	High
+2	2	SEA-001: Kattegat	9	3	Surface-feeding birds	0.3	0.5	sub-GES	1	High
+2	2	SEA-001: Kattegat	10	3	Pelagic-feeding birds	0.3	0.5	sub-GES	0.75	Intermediate
+2	2	SEA-001: Kattegat	11	3	Benthic-feeding birds	0.3	0	sub-GES	0.7875	High
+3	2	SEA-002: Great Belt	8	3	Wading birds	0.3	0.5	sub-GES	1	High
+3	2	SEA-002: Great Belt	9	3	Surface-feeding birds	0.3	0.714285714285714	sub-GES	1	High
+3	2	SEA-002: Great Belt	10	3	Pelagic-feeding birds	0.3	0.333333333333333	sub-GES	0.8333	High
+3	2	SEA-002: Great Belt	11	3	Benthic-feeding birds	0.3	0	sub-GES	0.5417	Intermediate
+4	2	SEA-003: The Sound	8	3	Wading birds	0.3	0.5	sub-GES	1	High
+4	2	SEA-003: The Sound	9	3	Surface-feeding birds	0.3	0.714285714285714	sub-GES	1	High
+4	2	SEA-003: The Sound	10	3	Pelagic-feeding birds	0.3	0.333333333333333	sub-GES	0.8333	High
+4	2	SEA-003: The Sound	11	3	Benthic-feeding birds	0.3	0	sub-GES	0.5417	Intermediate
+5	2	SEA-004: Kiel Bay	7	3	Grazing birds	0.8	0.777777777777778	GES	0.9028	High
+5	2	SEA-004: Kiel Bay	8	3	Wading birds	0.3	0.666666666666667	sub-GES	0.9792	High
+5	2	SEA-004: Kiel Bay	9	3	Surface-feeding birds	0.3	0.5	sub-GES	0.9875	High
+5	2	SEA-004: Kiel Bay	10	3	Pelagic-feeding birds	0.3	0.5625	sub-GES	0.8242	High
+5	2	SEA-004: Kiel Bay	11	3	Benthic-feeding birds	0.3	0.3	sub-GES	0.7875	High
+6	2	SEA-005: Bay of Mecklenburg	7	3	Grazing birds	0.8	0.777777777777778	GES	0.9028	High
+6	2	SEA-005: Bay of Mecklenburg	8	3	Wading birds	0.3	0.666666666666667	sub-GES	0.9792	High
+6	2	SEA-005: Bay of Mecklenburg	9	3	Surface-feeding birds	0.3	0.5	sub-GES	0.9875	High
+6	2	SEA-005: Bay of Mecklenburg	10	3	Pelagic-feeding birds	0.3	0.5625	sub-GES	0.8242	High
+6	2	SEA-005: Bay of Mecklenburg	11	3	Benthic-feeding birds	0.3	0.3	sub-GES	0.7875	High
+7	2	SEA-006: Arkona Basin	7	3	Grazing birds	0.8	0.777777777777778	GES	0.9028	High
+7	2	SEA-006: Arkona Basin	8	3	Wading birds	0.3	0.666666666666667	sub-GES	0.9792	High
+7	2	SEA-006: Arkona Basin	9	3	Surface-feeding birds	0.3	0.5	sub-GES	0.9875	High
+7	2	SEA-006: Arkona Basin	10	3	Pelagic-feeding birds	0.3	0.5625	sub-GES	0.8242	High
+7	2	SEA-006: Arkona Basin	11	3	Benthic-feeding birds	0.3	0.3	sub-GES	0.7875	High
+8	2	SEA-007: Bornholm Basin	7	3	Grazing birds	0.8	0.777777777777778	GES	0.9028	High
+8	2	SEA-007: Bornholm Basin	8	3	Wading birds	0.3	0.666666666666667	sub-GES	0.9792	High
+8	2	SEA-007: Bornholm Basin	9	3	Surface-feeding birds	0.3	0.5	sub-GES	0.9875	High
+8	2	SEA-007: Bornholm Basin	10	3	Pelagic-feeding birds	0.3	0.5625	sub-GES	0.8242	High
+8	2	SEA-007: Bornholm Basin	11	3	Benthic-feeding birds	0.3	0.3	sub-GES	0.7875	High
+9	2	SEA-008: Gdansk Basin	7	3	Grazing birds	0.8	0.857142857142857	GES	0.9286	High
+9	2	SEA-008: Gdansk Basin	8	3	Wading birds	0.3	0.6	sub-GES	1	High
+9	2	SEA-008: Gdansk Basin	9	3	Surface-feeding birds	0.3	0.555555555555556	sub-GES	1	High
+9	2	SEA-008: Gdansk Basin	10	3	Pelagic-feeding birds	0.8	0.8	GES	0.8958	High
+9	2	SEA-008: Gdansk Basin	11	3	Benthic-feeding birds	0.3	0.416666666666667	sub-GES	0.8177	High
+10	2	SEA-009: Eastern Gotland Basin	7	3	Grazing birds	0.8	0.857142857142857	GES	0.9286	High
+10	2	SEA-009: Eastern Gotland Basin	8	3	Wading birds	0.3	0.6	sub-GES	1	High
+10	2	SEA-009: Eastern Gotland Basin	9	3	Surface-feeding birds	0.3	0.555555555555556	sub-GES	1	High
+10	2	SEA-009: Eastern Gotland Basin	10	3	Pelagic-feeding birds	0.8	0.8	GES	0.8958	High
+10	2	SEA-009: Eastern Gotland Basin	11	3	Benthic-feeding birds	0.3	0.416666666666667	sub-GES	0.8177	High
+11	2	SEA-010: Western Gotland Basin	7	3	Grazing birds	0.8	0.857142857142857	GES	0.9286	High
+11	2	SEA-010: Western Gotland Basin	8	3	Wading birds	0.3	0.6	sub-GES	1	High
+11	2	SEA-010: Western Gotland Basin	9	3	Surface-feeding birds	0.3	0.555555555555556	sub-GES	1	High
+11	2	SEA-010: Western Gotland Basin	10	3	Pelagic-feeding birds	0.8	0.8	GES	0.8958	High
+11	2	SEA-010: Western Gotland Basin	11	3	Benthic-feeding birds	0.3	0.416666666666667	sub-GES	0.8177	High
+12	2	SEA-011: Gulf of Riga	7	3	Grazing birds	0.8	0.857142857142857	GES	0.9286	High
+12	2	SEA-011: Gulf of Riga	8	3	Wading birds	0.3	0.6	sub-GES	1	High
+12	2	SEA-011: Gulf of Riga	9	3	Surface-feeding birds	0.3	0.555555555555556	sub-GES	1	High
+12	2	SEA-011: Gulf of Riga	10	3	Pelagic-feeding birds	0.8	0.8	GES	0.8958	High
+12	2	SEA-011: Gulf of Riga	11	3	Benthic-feeding birds	0.3	0.416666666666667	sub-GES	0.8177	High
+13	2	SEA-012: Northern Baltic Proper	7	3	Grazing birds	0.3	0.714285714285714	sub-GES	1	High
+13	2	SEA-012: Northern Baltic Proper	8	3	Wading birds	0.3	0.75	sub-GES	1	High
+13	2	SEA-012: Northern Baltic Proper	9	3	Surface-feeding birds	0.3	0.666666666666667	sub-GES	1	High
+13	2	SEA-012: Northern Baltic Proper	10	3	Pelagic-feeding birds	0.8	0.875	GES	1	High
+13	2	SEA-012: Northern Baltic Proper	11	3	Benthic-feeding birds	0.3	0.727272727272727	sub-GES	0.9091	High
+14	2	SEA-013: Gulf of Finland	7	3	Grazing birds	0.8	1	GES	0.95	High
+14	2	SEA-013: Gulf of Finland	8	3	Wading birds	0.3	0.75	sub-GES	1	High
+14	2	SEA-013: Gulf of Finland	9	3	Surface-feeding birds	0.3	0.6	sub-GES	0.9625	High
+14	2	SEA-013: Gulf of Finland	10	3	Pelagic-feeding birds	0.8	0.777777777777778	GES	0.9583	High
+14	2	SEA-013: Gulf of Finland	11	3	Benthic-feeding birds	0.3	0.6	sub-GES	0.925	High
+15	2	SEA-014: Åland Sea	7	3	Grazing birds	0.3	0.714285714285714	sub-GES	1	High
+15	2	SEA-014: Åland Sea	8	3	Wading birds	0.3	0.75	sub-GES	1	High
+15	2	SEA-014: Åland Sea	9	3	Surface-feeding birds	0.3	0.666666666666667	sub-GES	1	High
+15	2	SEA-014: Åland Sea	10	3	Pelagic-feeding birds	0.8	0.875	GES	1	High
+15	2	SEA-014: Åland Sea	11	3	Benthic-feeding birds	0.3	0.727272727272727	sub-GES	0.9091	High
+16	2	SEA-015: Bothnian Sea	7	3	Grazing birds	0.8	1	GES	1	High
+16	2	SEA-015: Bothnian Sea	8	3	Wading birds	0.3	0.666666666666667	sub-GES	1	High
+16	2	SEA-015: Bothnian Sea	9	3	Surface-feeding birds	0.8	1	GES	1	High
+16	2	SEA-015: Bothnian Sea	10	3	Pelagic-feeding birds	0.3	0.666666666666667	sub-GES	1	High
+16	2	SEA-015: Bothnian Sea	11	3	Benthic-feeding birds	0.3	0.333333333333333	sub-GES	1	High
+17	2	SEA-016: The Quark	7	3	Grazing birds	0.8	1	GES	1	High
+17	2	SEA-016: The Quark	8	3	Wading birds	0.3	0.666666666666667	sub-GES	1	High
+17	2	SEA-016: The Quark	9	3	Surface-feeding birds	0.8	1	GES	1	High
+17	2	SEA-016: The Quark	10	3	Pelagic-feeding birds	0.3	0.666666666666667	sub-GES	1	High
+17	2	SEA-016: The Quark	11	3	Benthic-feeding birds	0.3	0.333333333333333	sub-GES	1	High
+18	2	SEA-017: Bothnian Bay	7	3	Grazing birds	0.8	1	GES	1	High
+18	2	SEA-017: Bothnian Bay	8	3	Wading birds	0.3	0.666666666666667	sub-GES	1	High
+18	2	SEA-017: Bothnian Bay	9	3	Surface-feeding birds	0.8	1	GES	1	High
+18	2	SEA-017: Bothnian Bay	10	3	Pelagic-feeding birds	0.3	0.666666666666667	sub-GES	1	High
+18	2	SEA-017: Bothnian Bay	11	3	Benthic-feeding birds	0.3	0.333333333333333	sub-GES	1	High
