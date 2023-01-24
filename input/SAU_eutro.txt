@@ -1,0 +1,338 @@
+SAU;Level;SAUID;ParentID;Area_km2
+Baltic Sea;1;1;;416947.647
+SEA-001: Kattegat;2;2;1;23945.907
+SEA-002: Great Belt;2;3;1;10738.395
+SEA-003: The Sound;2;4;1;937.586
+SEA-004: Kiel Bay;2;5;1;3599.75
+SEA-005: Bay of Mecklenburg;2;6;1;4555.669
+SEA-006: Arkona Basin;2;7;1;18059.74
+SEA-007: Bornholm Basin;2;8;1;40511.155
+SEA-008: Gdansk Basin;2;9;1;5875.877
+SEA-009: Eastern Gotland Basin;2;10;1;76243.809
+SEA-010: Western Gotland Basin;2;11;1;33911.01
+SEA-011: Gulf of Riga;2;12;1;19067.48
+SEA-012: Northern Baltic Proper;2;13;1;33212.12
+SEA-013: Gulf of Finland;2;14;1;28415.807
+SEA-014: Åland Sea;2;15;1;17698.049
+SEA-015: Bothnian Sea;2;16;1;59816.809
+SEA-016: The Quark;2;17;1;8158.57
+SEA-017: Bothnian Bay;2;18;1;32199.914
+SEA-001: Kattegat - Opensea;3;19;2;15340.794
+SEA-002: Great Belt - Opensea;3;20;3;2066.686
+SEA-003: The Sound - Opensea;3;21;4;441.067
+SEA-004: Kiel Bay - Opensea;3;22;5;2734.951
+SEA-005: Bay of Mecklenburg - Opensea;3;23;6;3489.962
+SEA-006: Arkona Basin - Opensea;3;24;7;13527.32
+SEA-007: Bornholm Basin - Opensea;3;25;8;38896.041
+SEA-008: Gdansk Basin - Opensea;3;26;9;3650.841
+SEA-009: Eastern Gotland Basin - Opensea;3;27;10;70789.879
+SEA-010: Western Gotland Basin - Opensea;3;28;11;26056.459
+SEA-011: Gulf of Riga - Opensea;3;29;12;8674.489
+SEA-012: Northern Baltic Proper - Opensea;3;30;13;27507.797
+SEA-013: Gulf of Finland - Opensea;3;31;14;15189.732
+SEA-014: Åland Sea - Opensea;3;32;15;1896.421
+SEA-015: Bothnian Sea - Opensea;3;33;16;49443.069
+SEA-016: The Quark - Opensea;3;34;17;2965.173
+SEA-017: Bothnian Bay - Opensea;3;35;18;21603.924
+1: Bothnian Bay Finnish Coastal waters;3;36;18;5548.149
+2: Bothnian Bay Swedish Coastal waters;3;37;18;5047.84
+3: The Quark Finnish Coastal waters;3;38;17;3404.899
+4: The Quark Swedish Coastal waters;3;39;17;1788.498
+5: Bothnian Sea Finnish Coastal waters;3;40;16;3518.646
+6: Bothnian Sea Swedish Coastal waters;3;41;16;6855.094
+7: Åland Sea Swedish Coastal waters;3;42;15;1692
+8: Åland Sea - Archipelago Sea Finnish coastal water;3;43;15;15801.628
+9: Northern Baltic Proper Swedish Coastal waters;3;44;13;4492.618
+10: Northern Baltic Proper Estonian Coastal waters;3;45;13;1211.705
+11: Gulf of Finland Finnish coastal waters;3;46;14;4278.385
+12: Gulf of Finland Estonian Coastal waters;3;47;14;3676.881
+13: Gulf of Finland Russian Coastal waters;3;48;14;5270.806
+14: Gulf of Riga Estonian Coastal waters;3;49;12;8841.401
+15: Gulf of Riga Latvian Coastal waters;3;50;12;1551.589
+16: Western Gotland Basin Swedish Coastal waters;3;51;11;7854.551
+17: Eastern Gotland Basin Estonian Coastal waters;3;52;10;768.58
+18: Eastern Gotland Basin Latvian Coastal waters;3;53;10;741.608
+19: Eastern Gotland Basin Lithuanian Coastal waters;3;54;10;622.483
+20: Eastern Gotland Basin Swedish Coastal waters;3;55;10;1803.306
+21: Eastern Gotland Basin Russian Coastal waters;3;56;10;1376.762
+22: Eastern Gotland Basin Polish Coastal waters;3;57;10;141.191
+23: Gdansk Basin Russian Coastal waters;3;58;9;620.399
+24: Gdansk Basin Polish Coastal waters;3;59;9;1604.637
+25: Bornholm Basin Swedish Coastal waters;3;60;8;1614
+26: Bornholm Basin Polish Coastal waters;3;61;8;857.953
+27: Bornholm Basin Danish Coastal waters;3;62;8;232.621
+28: Bornholm Basin German Coastal waters;3;63;8;716.023
+29: Arkona Basin Swedish Coastal waters;3;64;7;708.128
+30: Arkona Basin Danish Coastal waters;3;65;7;1682.998
+31: Arkona Basin German Coastal waters;3;66;7;1949.81
+32: Mecklenburg Bight German Coastal waters;3;67;6;927.451
+33: Mecklenburg Bight Danish Coastal waters;3;68;6;211.392
+34: Kiel Bight Danish Coastal waters;3;69;5;179.555
+35: Kiel Bight German Coastal waters;3;70;5;612.107
+36: Belts Danish Coastal waters;3;71;3;8671.709
+37: The Sound Swedish Coastal waters;3;72;4;187.95
+38: The Sound Danish Coastal waters;3;73;4;308.569
+39: Kattegat Swedish Coastal waters;3;74;2;2305.45
+40: Kattegat Danish Coastal waters, including Limfjord;3;75;2;6299.664
+DEN-001: Roskilde Fjord, ydre M2;4;76;75;71.868
+DEN-002: Roskilde Fjord, indre M2;4;77;75;51.612
+DEN-003: Nordlige Fresund OW2;4;78;73;298.006
+DEN-004: Kobenhavn Havn OW3b;4;79;73;10.563
+DEN-005: Korsor Nor M2;4;80;71;7.84
+DEN-006: Basnaes Nor M2;4;81;71;9.531
+DEN-007: Holsteinborg Nor M2;4;82;71;6.525
+DEN-008: Isefjord, ydre P2;4;83;75;253.448
+DEN-009: Skaelskor Fjord og Nor M2;4;84;71;5.254
+DEN-010: Musholm Bugt, indre M2;4;85;71;103.494
+DEN-011: Sejerobugt OW2;4;86;71;819.049
+DEN-012: Kalundborg Fjord P3;4;87;71;57.216
+DEN-013: Smalandsfarvandet, syd M1;4;88;71;250.219
+DEN-014: Karrebaek Fjord M3;4;89;71;15.457
+DEN-015: Dybso Fjord M2;4;90;71;17.111
+DEN-016: Avno Fjord M2;4;91;71;40.903
+DEN-017: Guldborgsund M2;4;92;71;82.075
+DEN-018: Langelandsbaelt, 3st OW3a;4;93;71;59.405
+DEN-019: Hjelm Bugt OW3b;4;94;65;363.721
+DEN-020: Gronsund OW3a;4;95;71;101.006
+DEN-021: Fakse Bugt OW3b;4;96;65;555.213
+DEN-022: Praesto Fjord M2;4;97;65;21.866
+DEN-023: Stege Bugt M2;4;98;65;132.914
+DEN-024: Stege Nor M2;4;99;65;5.187
+DEN-025: Ostersoen, Bornholm OW3c;4;100;62;213.688
+DEN-026: Ostersoen, ChristiansW OW3c;4;101;62;18.934
+DEN-027: Naera Strand M4;4;102;71;4.809
+DEN-028: Dalby bugt P4;4;103;71;2.599
+DEN-029: Lillestrand P2;4;104;71;6.085
+DEN-030: Nakkebolle Fjord M3;4;105;71;6.688
+DEN-031: Skarupore Sund M2;4;106;71;2.86
+DEN-032: Thuro Bund M2;4;107;71;1.179
+DEN-033: Lindelse Nor M2;4;108;71;6.892
+DEN-034: Vejlen O4;4;109;71;0.223
+DEN-035: Salme Nor O4;4;110;71;0.083
+DEN-036: Tryggelev Nor O4;4;111;71;0.256
+DEN-037: Kloven M2;4;112;71;10.075
+DEN-038: Bredningen M3;4;113;71;0.262
+DEN-039: Emtekaer Nor M4;4;114;71;0.838
+DEN-040: Orestrand M2;4;115;71;0.105
+DEN-041: Gamborg Nor O4;4;116;71;0.2
+DEN-042: Gamborg Fjord P1;4;117;71;10.314
+DEN-043: Bago Nor M2;4;118;71;0.263
+DEN-044: Aborg Minde Nor M3;4;119;71;0.171
+DEN-045: Holckenhavn Fjord M3;4;120;71;0.505
+DEN-046: Kerteminde Fjord P3;4;121;71;3.382
+DEN-047: Kertinge Nor P2;4;122;71;5.403
+DEN-048: Nyborg Fjord P3;4;123;71;8.095
+DEN-049: Helnaes Bugt M1;4;124;71;67.022
+DEN-050: Lunkebugten M2;4;125;71;10.68
+DEN-051: Langelandssund OW3a;4;126;71;207.778
+DEN-052: Odense Fjord, ydre P3;4;127;71;46.232
+DEN-053: Odense Fjord, Seden Strand M4;4;128;71;15.475
+DEN-054: Storebaelt, SV OW3a;4;129;71;181.847
+DEN-055: Storebaelt, NV OW2;4;130;71;101.418
+DEN-056: Genner Bugt P1;4;131;71;5.019
+DEN-057: Abenra Fjord P1;4;132;71;32.886
+DEN-058: Als Fjord P1;4;133;71;35.163
+DEN-059: Als Sund M1;4;134;71;5.524
+DEN-060: Augustenborg Fjord M2;4;135;71;15.117
+DEN-061: Haderslev Fjord M1;4;136;71;5.152
+DEN-062: Avno Vig M2;4;137;71;0.371
+DEN-063: Hejlsminde Nor M2;4;138;71;1.896
+DEN-064: Nybol Nor P1;4;139;71;8.046
+DEN-065: Flensborg Fjord, indre P1;4;140;71;13.075
+DEN-066: Flensborg Fjord, ydre P1;4;141;71;150.329
+DEN-067: Vejle Fjord, ydre P3;4;142;71;92.44
+DEN-068: Vejle Fjord, indre P3;4;143;71;16.434
+DEN-069: Kolding Fjord, indre P3;4;144;71;4.863
+DEN-070: Kolding Fjord, ydre P3;4;145;71;10.233
+DEN-071: Horsens Fjord, ydre P3;4;146;71;32.719
+DEN-072: Horsens Fjord, indre P3;4;147;71;46.243
+DEN-073: Randers Fjord, Grund Fjord O4;4;148;75;1.948
+DEN-074: Randers Fjord,  Randers-Mellerup O3;4;149;75;6.214
+DEN-075: Randers Fjord, ydre M3;4;150;75;18.167
+DEN-076: Hevring Bugt OW2;4;151;75;461.204
+DEN-077: Anholt OW2;4;152;75;211.922
+DEN-078: Djursland;4;153;75;173.932
+DEN-079: Ebeltoft Vig P1;4;154;71;84.707
+DEN-080: Stavns Fjord P2;4;155;71;15.83
+DEN-081: Knebel Vig P1;4;156;71;7.263
+DEN-082: Kalo Vig, indre P1;4;157;71;34.901
+DEN-083: Norsminde Fjord M4;4;158;71;1.817
+DEN-084: Arhus Bugt, Kal  og Begtrup Vig P3;4;159;71;275.948
+DEN-085: Kattegat, Laeso OW2;4;160;75;616.702
+DEN-086: Nissum Bredning, Thisted Bredning, Kks Bredning, L gster Bredning, Nibe Bredning og Langerak P4;4;161;75;1279.657
+DEN-087: Bjornholms Bugt, Riisgerde Bredning, Skive Fjord og Lovns Bredning P3;4;162;75;223.299
+DEN-088: Hjarbaek Fjord Slusefjord;4;163;75;24.818
+DEN-089: Mariager Fjord, indre M1;4;164;75;17.636
+DEN-090: Mariager Fjord, ydre P1;4;165;75;28.375
+DEN-091: Isefjord, indre P2;4;166;75;62.34
+DEN-092: Kattegat, Nordsjaelland OW2;4;167;75;715.93
+DEN-093: Koge Bugt OW3b;4;168;65;604.097
+DEN-094: Jammerland Bugt OW2;4;169;71;206.264
+DEN-095: Kattegat, Nordsjaelland >20 m OW1;4;170;75;584.206
+DEN-096: Smalandsfarvandet, abne del OW3a;4;171;71;1131.448
+DEN-097: Nakskov Fjord M1;4;172;71;50.55
+DEN-098: Femerbaelt OW3a;4;173;69;179.555
+DEN-099: Rodsand M2;4;174;68;211.392
+DEN-100: Faaborg Fjord M2;4;175;71;10.717
+DEN-101: Toro Vig og Tor2 Nor M2;4;176;71;2.008
+DEN-102: Det sydfynske ohav,  obne del OW3a;4;177;71;573.295
+DEN-103: Lillebaelt, syd OW3a;4;178;71;1117.216
+DEN-104: Lillebaelt, Bredningen OW3a;4;179;71;279.143
+DEN-105: Arhus Bugt syd, Samsn og Nordlige B,lthav OW2;4;180;71;1807.036
+DEN-106: Kattegat, Aalborg Bugt OW2;4;181;75;1052.582
+DEN-107: Nordlige Lillebaelt OW2;4;182;71;321.232
+DEN-108: Nordlige Kattegat, Olb;4;183;75;443.805
+EST-001: Narva-Kunda Bay CWB;4;184;47;955.815
+EST-002: Eru-Käsmu Bay CWB;4;185;47;596.069
+EST-003: Hara and Kolga Bay CWB;4;186;47;569.815
+EST-005: Muuga-Tallinna-Kakumäe Bay CWB;4;188;47;917.227
+EST-006: Pakri Bay CWB;4;189;47;637.955
+EST-007: Hiiu Shallow CWB;4;190;49;1367.187
+EST-008: Haapsalu Bay CWB;4;191;49;42.186
+EST-009: Matsalu Bay CWB;4;192;49;87.488
+EST-010: Soela Strait CWB;4;193;45;1211.705
+EST-011: Kihelkonna Bay CWB;4;194;52;768.58
+EST-013: Pärnu Bay CWB;4;196;49;220.348
+EST-014: Kassari-Õunaku Bay CWB;4;197;49;666.134
+EST-016: Väinameri CWB;4;198;49;893.716
+EST-017: NW part of the Gulf of Riga CWB;4;199;49;1677.521
+FIN-001: Lounainen sisäsaaristo;4;200;43;1193.94
+FIN-002: Lounainen ulkosaaristo;4;201;43;5548.256
+FIN-003: Suomenlahden sisäsaaristo;4;202;46;1218.572
+FIN-004: Suomenlahden ulkosaaristo;4;203;46;3059.813
+FIN-005: Lounainen välisaaristo;4;204;43;1285.003
+FIN-006: Merenkurkun sisäsaaristo;4;205;38;653.745
+FIN-007: Merenkurkun ulkosaaristo;4;206;38;2751.154
+FIN-008: Selkämeren sisemmät rannikkovedet;4;207;40;979.226
+FIN-009: Selkämeren ulommat rannikkovedet;4;208;40;2539.42
+FIN-010: Perämeren sisemmät rannikkovedet;4;209;36;1290.856
+FIN-011: Perämeren ulommat rannikkovedet;4;210;36;4257.293
+FIN-012: Åland innerskärgård;4;211;43;241.836
+FIN-013: Åland mellanskärgård;4;212;43;490.671
+FIN-014: Åland ytterskärgård;4;213;43;7041.922
+GER-001: mesohaline inner coastal waters, Wismarbucht, Suedteil;4;214;67;1.262
+GER-002: mesohaline inner coastal waters, Wismarbucht, Nordteil;4;215;67;94.448
+GER-003: mesohaline inner coastal waters, Wismarbucht, Salzhaff;4;216;67;38.484
+GER-004: mesohaline open coastal waters, Suedliche Mecklenburger Bucht/ Travemuende bis Warnemünde;4;217;67;261.292
+GER-005: mesohaline inner coastal waters, Unterwarnow;4;218;67;12.748
+GER-006: mesohaline open coastal waters, Suedliche Mecklenburger Bucht/ Warnemünde bis Darss;4;219;67;85.175
+GER-007: oligohaline inner coastal waters, Ribnitzer See / Saaler Bodden;4;220;66;80.537
+GER-008: oligohaline inner coastal waters, Koppelstrom / Bodstedter Bodden;4;221;66;31.278
+GER-009: mesohaline inner coastal waters, Barther Bodden, Grabow;4;222;66;83.68
+GER-010: mesohaline open coastal waters, Prerowbucht/ Darsser Ort bis Dornbusch;4;223;66;465.665
+GER-011: mesohaline inner coastal waters, Westruegensche Bodden;4;224;66;170.118
+GER-012: mesohaline inner coastal waters, Strelasund;4;225;66;79.563
+GER-013: mesohaline inner coastal waters, Greifswalder Bodden;4;226;66;494.641
+GER-014: mesohaline inner coastal waters, Kleiner Jasmunder Bodden;4;227;66;24.651
+GER-015: mesohaline open coastal waters, Nord- und Ostruegensche Gewaesser;4;228;66;391.397
+GER-016: oligohaline inner coastal waters, Peenestrom;4;229;63;86.079
+GER-017: oligohaline inner coastal waters, Achterwasser;4;230;63;80.98
+GER-018: mesohaline open coastal waters, Pommersche Bucht, Nordteil;4;231;63;191.484
+GER-019: mesohaline open coastal waters, Pommersche Bucht, Südteil;4;232;63;69.353
+GER-020: oligohaline inner coastal waters, Kleines Haff;4;233;63;288.127
+GER-021: mesohaline inner coastal waters, Flensburg Innenfoerde;4;234;70;21.02
+GER-022: mesohaline open coastal waters, Geltinger Bucht;4;235;70;43.8
+GER-023: meso- to polyhaline open coastal waters, seasonally stratified, Flensburger Aussenfoerde Flensburg;4;236;70;63.574
+GER-024: mesohaline open coastal waters, Aussenschlei;4;237;70;34.125
+GER-025: mesohaline inner coastal waters, Schleimuende;4;238;70;22.704
+GER-026A: A.mesohaline inner coastal waters, Mittlere Schlei;4;239;70;9.298
+GER-027: mesohaline inner coastal waters, Innere Schlei;4;240;70;7.53
+GER-028: mesohaline open coastal waters, Eckerfoerder Bucht, Rand;4;241;70;50.4
+GER-029: meso- to polyhaline open coastal waters, seasonally stratified, Eckerfoerderbucht, Tiefe;4;242;70;71.376
+GER-030: mesohaline open coastal waters, Buelk;4;243;70;14.697
+GER-031: meso- to polyhaline open coastal waters, seasonally stratified, Kieler Aussenfoerde;4;244;70;16.519
+GER-032: mesohaline inner coastal waters, Kieler Innenfoerde;4;245;70;15.237
+GER-033: mesohaline open coastal waters, Probstei;4;246;70;82.34
+GER-034: mesohaline open coastal waters, Putlos;4;247;70;25.454
+GER-035: meso- to polyhaline open coastal waters, seasonally stratified, Hohwachter Bucht;4;248;70;62.43
+GER-036A: A.mesohaline open coastal waters, Fehmarnsund;4;249;67;73.138
+GER-037: mesohaline inner coastal waters, Orther Bucht;4;250;70;13.077
+GER-038A: A.mesohaline open coastal waters, Fehmarnbelt;4;251;70;45.862
+GER-039: meso- to polyhaline open coastal waters, seasonally stratified, Fehmarn Sund Ost;4;252;67;41.613
+GER-040: mesohaline open coastal waters, Groemitz;4;253;67;38.866
+GER-041: mesohaline open coastal waters, Neustaedter Bucht;4;254;67;47.18
+GER-042: mesohaline inner coastal waters, Travemuende;4;255;67;1.008
+GER-043: mesohaline inner coastal waters, Poetenitzer Wiek;4;256;67;17.322
+GER-044: mesohaline inner coastal waters, Untere Trave;4;257;67;4.431
+GER-111: mesohaline inner coastal waters, Nordruegensche Bodden;4;258;66;128.279
+LAT-001: South-eastern exposed stony coast, waterbody A;4;259;53;239.317
+LAT-002: South-eastern exposed sandy coast, waterbody B;4;260;53;502.29
+LAT-003: Gulf of Riga sandy coast, waterbodies C&E;4;261;50;387.08
+LAT-004: Gulf of Riga stony coast, waterbodies D&F;4;262;50;308.698
+LAT-005: Gulf of Riga transitional waters;4;263;50;855.811
+LIT-001: Heavily modified waterbody. Klaipeda Strait;4;264;54;6.75
+LIT-002: Coastal waters. Southern coastal sandy coast;4;265;54;83.009
+LIT-003: Coastal waters. Nothern coastal stony coast;4;266;54;33.143
+LIT-004: Transitional waters. Central part of the lagoon;4;267;54;211.596
+LIT-005: Transitional waters. Nothern part of the lagoon;4;268;54;175.086
+LIT-006: Transitional waters. Plume of the lagoon;4;269;54;112.9
+POL-001: PL TW I WB 9 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days;4;270;61;43.555
+POL-002: PL TW I WB 8 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days;4;271;61;406.992
+POL-003: PL TW I WB 1 very sheltered, fully mixed, substratum: silt/sandy silt/silty sand: ice cover >90 days, water rwesidence time 52 days;4;272;59;302.196
+POL-004: PL TW II WB 2 very sheltered, fully mixed, substratum: lagoonal fine snd medium grained sand/silty sand: residence time 138 day, ice cover >90 days;4;273;59;111.307
+POL-005: PL TW III WB 3 partly protected, partly stratified, substratum: medium grained sand/pebbles/marine silty sand: ice-incidental;4;274;59;286.352
+POL-006: PL TW IV WB 4 partly stratified, moderately exposed, substratum: sand/silt: ice - incidental;4;275;59;711.223
+POL-007: PL TW V WB 6 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand;4;276;61;2.386
+POL-008: PL TW V WB 5 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand;4;277;59;64.323
+POL-009: PL TW V WB 7 river mouth, partly stratified, partly sheltered, substratum: medium grained sand/silty sand;4;278;61;8.922
+POL-010: PL CWI WB2 coastal waters, moderately exposed, fully mixed, substratum:sand/fine sand;4;279;59;70.257
+POL-011: PL CWI WB1 coastal waters, moderately exposed, fully mixed, substratum:sand/fine sand;4;280;59;41.397
+POL-012: PL CWI WB3 coastal waters, moderately exposed, fully mixed, substratum:sand/fine sand;4;281;59;0.122
+POL-013: PL CW II WB 8 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;282;61;153.718
+POL-014: PL CW II WB 6W central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;283;61;38.817
+POL-015: PL CW II WB 6E central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;284;61;46.076
+POL-016: PL CWII WB5 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;285;57;141.191
+POL-017: PL CWII WB4 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;286;59;17.461
+POL-018: PL CW III WB 9 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;287;61;58.812
+POL-019: PL CW III WB 7 central Polish coast, coastal waters, exposed, fully mixed, substratum: sand/pebbles/gravel;4;288;61;98.674
+RUS-001: HOLAS Eastern Gulf of Finland;4;289;48;5270.806
+RUS-002: HOLAS Russian coast of Baltic Proper;4;290;56;1376.762
+RUS-003: HOLAS Russian coast of Gulf of Gdansk;4;291;58;620.399
+SWE-001: 1s West Coast inner coastal water;4;292;74;336.425
+SWE-003: 4 West Coast outer coastal water, Kattegat;4;293;74;884.35
+SWE-004: 5 South Halland and north Öresund coastal water;4;294;74;1024.161
+SWE-005: 6 Öresund inner coastal water;4;295;72;187.95
+SWE-006: 7 Skåne coastal water;4;296;64;708.128
+SWE-007: 8 Blekinge archipelago and Kalmarsund, inner;4;297;51;850.526
+SWE-008: 9 Blekinge archipelago and Kalmarsund, outer;4;298;51;3026.394
+SWE-009: 10 Öland and Gotland coastal water;4;299;55;1803.306
+SWE-010: 11 Gotland north-west coastal water;4;300;51;491.265
+SWE-011: 12n Östergötland and Stockholm archipelago;4;301;44;2341.857
+SWE-012: 12s Östergötland and Stockholm archipelago;4;302;51;1112.24
+SWE-013: 13 Östergötland inner coastal water;4;303;51;90.032
+SWE-014: 14 Östergötland outer coastal water;4;304;51;2284.094
+SWE-015: 15 Stockholm archipelago, outer coastal water;4;305;44;2030.965
+SWE-016: 16 South Bothnian Sea,inner coastal water;4;306;41;1420.63
+SWE-017: 17 South Bothnian Sea, outer coastal water;4;307;41;2444.274
+SWE-018: 18 North Bothnian Sea, Höga kusten, inner;4;308;41;1158.35
+SWE-019: 19 North Bothnian Sea, Höga kusten, outer;4;309;41;1831.839
+SWE-020: 20 North Quark inner coastal water;4;310;39;327.78
+SWE-021: 21 North Quark outer coastal water;4;311;39;1460.719
+SWE-022: 22 North Bothnian Bay, inner coastal water;4;312;37;1858.54
+SWE-023: 23 North Bothnian Bay, outer coastal water;4;313;37;3189.301
+SWE-024: 24 Stockholm inner archipelago;4;314;44;119.796
+SWE-025: 25 Göta and Nordre älv estuary;4;315;74;60.513
+EST-018: NE part of the Gulf of Riga CWB;4;400;49;1926.658
+EST-019: Central part of the Gulf of Riga CWB;4;401;49;1960.163
+GER-026B: B.mesohaline inner coastal waters, Mittlere Schlei;4;402;70;12.664
+GER-036B: B.mesohaline open coastal waters, Fehmarnsund;4;403;67;186.878
+GER-038B: B.mesohaline open coastal waters, Fehmarnbelt;4;404;67;23.608
+SEA-001: Opensea Kattegat;4;405;19;15340.794
+SEA-002: Opensea Great Belt;4;406;20;2066.686
+SEA-003: Opensea The Sound;4;407;21;441.067
+SEA-004: Opensea Kiel Bay;4;408;22;2734.951
+SEA-005: Opensea Bay of Mecklenburg;4;409;23;3489.962
+SEA-006: Opensea Arkona Basin;4;410;24;13527.32
+SEA-007: Opensea Bornholm Basin;4;411;25;34895.882
+SEA-007B: Opensea Pomeranian Bay;4;412;25;4000.158
+SEA-008: Opensea Gulf of Gdansk;4;413;26;3650.841
+SEA-009: Opensea Eastern Gotland Basin;4;414;27;70789.879
+SEA-010: Opensea Western Gotland Basin;4;415;28;26056.459
+SEA-011: Opensea Gulf of Riga;4;416;29;8674.489
+SEA-012: Opensea Northern Baltic Proper;4;417;30;27507.797
+SEA-013A: Opensea Gulf of Finland Western;4;418;31;6285.105
+SEA-013B: Opensea Gulf of Finland Eastern;4;419;31;8904.627
+SEA-014: Opensea Åland Sea;4;420;32;1896.421
+SEA-015: Opensea Bothnian Sea;4;421;33;49443.069
+SEA-016: Opensea The Quark;4;422;34;2965.173
+SEA-017: Opensea Bothnian Bay;4;423;35;21603.924
