@@ -1,0 +1,95 @@
+SAUID	SAUlevel	SAU	ECID	EClevel	EcosystemComponent	EQR	Status	Conf	ConfClass
+36	3	1: Bothnian Bay Finnish Coastal waters	64	4	Perch	0.9	GES	0.875	High
+36	3	1: Bothnian Bay Finnish Coastal waters	14	3	Coastal fish	0.9	GES	0.875	High
+37	3	2: Bothnian Bay Swedish Coastal waters	125	4	Whitefish	0.7	GES	0.875	High
+37	3	2: Bothnian Bay Swedish Coastal waters	113	4	Pike	0.7	GES	0.875	High
+37	3	2: Bothnian Bay Swedish Coastal waters	67	4	Cyprinids	0.7	GES	0.6875	Intermediate
+37	3	2: Bothnian Bay Swedish Coastal waters	64	4	Perch	0.575	sub-GES	0.8125	High
+37	3	2: Bothnian Bay Swedish Coastal waters	14	3	Coastal fish	0.575	sub-GES	0.8125	High
+38	3	3: The Quark Finnish Coastal waters	64	4	Perch	0.45	sub-GES	0.875	High
+38	3	3: The Quark Finnish Coastal waters	14	3	Coastal fish	0.45	sub-GES	0.875	High
+39	3	4: The Quark Swedish Coastal waters	125	4	Whitefish	0.45	sub-GES	0.875	High
+39	3	4: The Quark Swedish Coastal waters	67	4	Cyprinids	0.15	sub-GES	0.75	Intermediate
+39	3	4: The Quark Swedish Coastal waters	64	4	Perch	0.45	sub-GES	0.7813	High
+39	3	4: The Quark Swedish Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.8021	High
+40	3	5: Bothnian Sea Finnish Coastal waters	65	4	Pikeperch	0.7	GES	0.875	High
+40	3	5: Bothnian Sea Finnish Coastal waters	64	4	Perch	0.8	GES	0.875	High
+40	3	5: Bothnian Sea Finnish Coastal waters	14	3	Coastal fish	0.7	GES	0.875	High
+41	3	6: Bothnian Sea Swedish Coastal waters	125	4	Whitefish	0.15	sub-GES	0.75	Intermediate
+41	3	6: Bothnian Sea Swedish Coastal waters	67	4	Cyprinids	0.7	GES	0.75	Intermediate
+41	3	6: Bothnian Sea Swedish Coastal waters	65	4	Pikeperch	0.15	sub-GES	0.625	Intermediate
+41	3	6: Bothnian Sea Swedish Coastal waters	64	4	Perch	0.7	GES	0.7708	High
+41	3	6: Bothnian Sea Swedish Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.724	Intermediate
+42	3	7: Åland Sea Swedish Coastal waters	125	4	Whitefish	0.45	sub-GES	0.75	Intermediate
+42	3	7: Åland Sea Swedish Coastal waters	113	4	Pike	0.15	sub-GES	0.75	Intermediate
+42	3	7: Åland Sea Swedish Coastal waters	67	4	Cyprinids	0.15	sub-GES	0.8125	High
+42	3	7: Åland Sea Swedish Coastal waters	65	4	Pikeperch	0.45	sub-GES	0.875	High
+42	3	7: Åland Sea Swedish Coastal waters	64	4	Perch	0.575	sub-GES	0.75	Intermediate
+42	3	7: Åland Sea Swedish Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.7875	High
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	125	4	Whitefish	0.15	sub-GES	0.875	High
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	113	4	Pike	0.7	GES	0.875	High
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	67	4	Cyprinids	0.45	sub-GES	0.8125	High
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	65	4	Pikeperch	0.7	GES	0.9375	High
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	64	4	Perch	0.675	GES	0.9792	High
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	14	3	Coastal fish	0.15	sub-GES	0.8958	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	129	4	Mesopredators	0.7	GES	0.875	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	125	4	Whitefish	0.7	GES	0.625	Intermediate
+44	3	9: Northern Baltic Proper Swedish Coastal waters	113	4	Pike	0.15	sub-GES	0.875	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	75	4	Flounder	0.45	sub-GES	0.875	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	67	4	Cyprinids	0.45	sub-GES	0.8125	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	65	4	Pikeperch	0.7	GES	0.875	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	64	4	Perch	0.45	sub-GES	0.875	High
+44	3	9: Northern Baltic Proper Swedish Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.8304	High
+46	3	11: Gulf of Finland Finnish coastal waters	67	4	Cyprinids	0.45	sub-GES	0.7083	Intermediate
+46	3	11: Gulf of Finland Finnish coastal waters	65	4	Pikeperch	0.7	GES	0.875	High
+46	3	11: Gulf of Finland Finnish coastal waters	64	4	Perch	0.3	sub-GES	0.875	High
+46	3	11: Gulf of Finland Finnish coastal waters	14	3	Coastal fish	0.3	sub-GES	0.8194	High
+49	3	14: Gulf of Riga Estonian Coastal waters	67	4	Cyprinids	0.15	sub-GES	0.75	Intermediate
+49	3	14: Gulf of Riga Estonian Coastal waters	64	4	Perch	0.7	GES	0.625	Intermediate
+49	3	14: Gulf of Riga Estonian Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.6875	Intermediate
+50	3	15: Gulf of Riga Latvian Coastal waters	67	4	Cyprinids	0.45	sub-GES	0.5	Intermediate
+50	3	15: Gulf of Riga Latvian Coastal waters	64	4	Perch	0.425	sub-GES	0.625	Intermediate
+50	3	15: Gulf of Riga Latvian Coastal waters	14	3	Coastal fish	0.425	sub-GES	0.5625	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	129	4	Mesopredators	0.45	sub-GES	0.75	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	125	4	Whitefish	0.15	sub-GES	0.75	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	113	4	Pike	0.15	sub-GES	0.75	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	75	4	Flounder	0.45	sub-GES	0.75	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	67	4	Cyprinids	0.45	sub-GES	0.75	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	65	4	Pikeperch	0.7	GES	0.875	High
+51	3	16: Western Gotland Basin Swedish Coastal waters	64	4	Perch	0.45	sub-GES	0.6875	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.7589	High
+53	3	18: Eastern Gotland Basin Latvian Coastal waters	75	4	Flounder	0.7	GES	0.625	Intermediate
+53	3	18: Eastern Gotland Basin Latvian Coastal waters	67	4	Cyprinids	0.15	sub-GES	0.75	Intermediate
+53	3	18: Eastern Gotland Basin Latvian Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.6875	Intermediate
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	129	4	Mesopredators	0.45	sub-GES	0.875	High
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	75	4	Flounder	0.7	GES	0.9063	High
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	67	4	Cyprinids	0.7	GES	1	High
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	65	4	Pikeperch	0.45	sub-GES	0.875	High
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	64	4	Perch	0.575	sub-GES	0.9375	High
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	14	3	Coastal fish	0.45	sub-GES	0.9188	High
+59	3	24: Gdansk Basin Polish Coastal waters	129	4	Mesopredators	0.7	GES	0.9375	High
+59	3	24: Gdansk Basin Polish Coastal waters	75	4	Flounder	0.45	sub-GES	0.8125	High
+59	3	24: Gdansk Basin Polish Coastal waters	67	4	Cyprinids	0.7	GES	1	High
+59	3	24: Gdansk Basin Polish Coastal waters	64	4	Perch	0.425	sub-GES	0.8542	High
+59	3	24: Gdansk Basin Polish Coastal waters	14	3	Coastal fish	0.425	sub-GES	0.901	High
+60	3	25: Bornholm Basin Swedish Coastal waters	129	4	Mesopredators	0.7	GES	0.625	Intermediate
+60	3	25: Bornholm Basin Swedish Coastal waters	113	4	Pike	0.15	sub-GES	0.75	Intermediate
+60	3	25: Bornholm Basin Swedish Coastal waters	75	4	Flounder	0.45	sub-GES	0.625	Intermediate
+60	3	25: Bornholm Basin Swedish Coastal waters	67	4	Cyprinids	0.7	GES	0.75	Intermediate
+60	3	25: Bornholm Basin Swedish Coastal waters	64	4	Perch	0.575	sub-GES	0.75	Intermediate
+60	3	25: Bornholm Basin Swedish Coastal waters	14	3	Coastal fish	0.15	sub-GES	0.7	Intermediate
+65	3	30: Arkona Basin Danish Coastal waters	117	4	Eelpout	0.7	GES	0.75	Intermediate
+65	3	30: Arkona Basin Danish Coastal waters	75	4	Flounder	0.45	sub-GES	0.5	Intermediate
+65	3	30: Arkona Basin Danish Coastal waters	14	3	Coastal fish	0.45	sub-GES	0.625	Intermediate
+68	3	33: Mecklenburg Bight Danish Coastal waters	117	4	Eelpout	0.7	GES	0.875	High
+68	3	33: Mecklenburg Bight Danish Coastal waters	75	4	Flounder	0.45	sub-GES	0.8125	High
+68	3	33: Mecklenburg Bight Danish Coastal waters	14	3	Coastal fish	0.45	sub-GES	0.8438	High
+71	3	36: Belts Danish Coastal waters	117	4	Eelpout	0.45	sub-GES	0.8542	High
+71	3	36: Belts Danish Coastal waters	75	4	Flounder	0.45	sub-GES	0.9286	High
+71	3	36: Belts Danish Coastal waters	14	3	Coastal fish	0.45	sub-GES	0.8914	High
+73	3	38: The Sound Danish Coastal waters	117	4	Eelpout	0.7	GES	0.75	Intermediate
+73	3	38: The Sound Danish Coastal waters	75	4	Flounder	0.45	sub-GES	0.75	Intermediate
+73	3	38: The Sound Danish Coastal waters	14	3	Coastal fish	0.45	sub-GES	0.75	Intermediate
+75	3	40: Kattegat Danish Coastal waters, including Limfjord	117	4	Eelpout	0.45	sub-GES	0.95	High
+75	3	40: Kattegat Danish Coastal waters, including Limfjord	75	4	Flounder	0.15	sub-GES	0.975	High
+75	3	40: Kattegat Danish Coastal waters, including Limfjord	14	3	Coastal fish	0.15	sub-GES	0.9625	High

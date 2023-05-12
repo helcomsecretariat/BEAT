@@ -1,0 +1,84 @@
+SAUID	SAUlevel	SAU	ECID	EClevel	EcosystemComponent	EQR	Status	Conf	ConfClass
+2	2	SEA-001: Kattegat	12	3	Small toothed cetaceans	0.4091	sub-GES	0.4375	Low
+3	2	SEA-002: Great Belt	12	3	Small toothed cetaceans	0.4091	sub-GES	0.4375	Low
+4	2	SEA-003: The Sound	12	3	Small toothed cetaceans	0.4091	sub-GES	0.4375	Low
+5	2	SEA-004: Kiel Bay	12	3	Small toothed cetaceans	0.4091	sub-GES	0.4375	Low
+6	2	SEA-005: Bay of Mecklenburg	12	3	Small toothed cetaceans	0.4091	sub-GES	0.4375	Low
+7	2	SEA-006: Arkona Basin	12	3	Small toothed cetaceans	0.15	sub-GES	0.3333	Low
+8	2	SEA-007: Bornholm Basin	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+9	2	SEA-008: Gdansk Basin	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+10	2	SEA-009: Eastern Gotland Basin	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+11	2	SEA-010: Western Gotland Basin	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+12	2	SEA-011: Gulf of Riga	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+13	2	SEA-012: Northern Baltic Proper	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+14	2	SEA-013: Gulf of Finland	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+15	2	SEA-014: Åland Sea	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+16	2	SEA-015: Bothnian Sea	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+17	2	SEA-016: The Quark	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+18	2	SEA-017: Bothnian Bay	12	3	Small toothed cetaceans	0.15	sub-GES	0.25	Low
+2	2	SEA-001: Kattegat	13	3	Seals	0.5614	sub-GES	0.5625	Intermediate
+3	2	SEA-002: Great Belt	13	3	Seals	0.3	sub-GES	0.8125	High
+4	2	SEA-003: The Sound	13	3	Seals	0.3	sub-GES	0.8125	High
+5	2	SEA-004: Kiel Bay	13	3	Seals	0.3	sub-GES	0.8125	High
+6	2	SEA-005: Bay of Mecklenburg	13	3	Seals	0.3	sub-GES	0.8125	High
+7	2	SEA-006: Arkona Basin	13	3	Seals	0.3	sub-GES	0.8125	High
+8	2	SEA-007: Bornholm Basin	13	3	Seals	0.174	sub-GES	0.8167	High
+9	2	SEA-008: Gdansk Basin	13	3	Seals	0.3	sub-GES	0.8333	High
+10	2	SEA-009: Eastern Gotland Basin	13	3	Seals	0.3	sub-GES	0.8333	High
+11	2	SEA-010: Western Gotland Basin	13	3	Seals	0.174	sub-GES	0.7708	High
+12	2	SEA-011: Gulf of Riga	13	3	Seals	0.108	sub-GES	0.8281	High
+13	2	SEA-012: Northern Baltic Proper	13	3	Seals	0.108	sub-GES	0.7917	High
+14	2	SEA-013: Gulf of Finland	13	3	Seals	0.108	sub-GES	0.8073	High
+15	2	SEA-014: Åland Sea	13	3	Seals	0.108	sub-GES	0.7708	High
+16	2	SEA-015: Bothnian Sea	13	3	Seals	0.15	sub-GES	0.8125	High
+17	2	SEA-016: The Quark	13	3	Seals	0.15	sub-GES	0.846	High
+18	2	SEA-017: Bothnian Bay	13	3	Seals	0.15	sub-GES	0.846	High
+2	2	SEA-001: Kattegat	60	4	Harbour porpoise	0.4091	sub-GES	0.4375	Low
+3	2	SEA-002: Great Belt	60	4	Harbour porpoise	0.4091	sub-GES	0.4375	Low
+4	2	SEA-003: The Sound	60	4	Harbour porpoise	0.4091	sub-GES	0.4375	Low
+5	2	SEA-004: Kiel Bay	60	4	Harbour porpoise	0.4091	sub-GES	0.4375	Low
+6	2	SEA-005: Bay of Mecklenburg	60	4	Harbour porpoise	0.4091	sub-GES	0.4375	Low
+7	2	SEA-006: Arkona Basin	60	4	Harbour porpoise	0.15	sub-GES	0.3333	Low
+8	2	SEA-007: Bornholm Basin	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+9	2	SEA-008: Gdansk Basin	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+10	2	SEA-009: Eastern Gotland Basin	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+11	2	SEA-010: Western Gotland Basin	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+12	2	SEA-011: Gulf of Riga	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+13	2	SEA-012: Northern Baltic Proper	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+14	2	SEA-013: Gulf of Finland	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+15	2	SEA-014: Åland Sea	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+16	2	SEA-015: Bothnian Sea	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+17	2	SEA-016: The Quark	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+18	2	SEA-017: Bothnian Bay	60	4	Harbour porpoise	0.15	sub-GES	0.25	Low
+2	2	SEA-001: Kattegat	61	4	Grey seal	0.5984	sub-GES	0.25	Low
+3	2	SEA-002: Great Belt	61	4	Grey seal	0.3	sub-GES	0.8333	High
+4	2	SEA-003: The Sound	61	4	Grey seal	0.3	sub-GES	0.8333	High
+5	2	SEA-004: Kiel Bay	61	4	Grey seal	0.3	sub-GES	0.8333	High
+6	2	SEA-005: Bay of Mecklenburg	61	4	Grey seal	0.3	sub-GES	0.8333	High
+7	2	SEA-006: Arkona Basin	61	4	Grey seal	0.3	sub-GES	0.8333	High
+8	2	SEA-007: Bornholm Basin	61	4	Grey seal	0.3	sub-GES	0.8333	High
+9	2	SEA-008: Gdansk Basin	61	4	Grey seal	0.3	sub-GES	0.8333	High
+10	2	SEA-009: Eastern Gotland Basin	61	4	Grey seal	0.3	sub-GES	0.8333	High
+11	2	SEA-010: Western Gotland Basin	61	4	Grey seal	0.3	sub-GES	0.8333	High
+12	2	SEA-011: Gulf of Riga	61	4	Grey seal	0.3	sub-GES	0.9063	High
+13	2	SEA-012: Northern Baltic Proper	61	4	Grey seal	0.3	sub-GES	0.8333	High
+14	2	SEA-013: Gulf of Finland	61	4	Grey seal	0.3	sub-GES	0.9063	High
+15	2	SEA-014: Åland Sea	61	4	Grey seal	0.3	sub-GES	0.8333	High
+16	2	SEA-015: Bothnian Sea	61	4	Grey seal	0.3	sub-GES	0.9063	High
+17	2	SEA-016: The Quark	61	4	Grey seal	0.3	sub-GES	0.9063	High
+18	2	SEA-017: Bothnian Bay	61	4	Grey seal	0.3	sub-GES	0.9063	High
+2	2	SEA-001: Kattegat	62	4	Harbour seal	0.5614	sub-GES	0.875	High
+3	2	SEA-002: Great Belt	62	4	Harbour seal	0.3	sub-GES	0.7917	High
+4	2	SEA-003: The Sound	62	4	Harbour seal	0.3	sub-GES	0.7917	High
+5	2	SEA-004: Kiel Bay	62	4	Harbour seal	0.3	sub-GES	0.7917	High
+6	2	SEA-005: Bay of Mecklenburg	62	4	Harbour seal	0.3	sub-GES	0.7917	High
+7	2	SEA-006: Arkona Basin	62	4	Harbour seal	0.3	sub-GES	0.7917	High
+8	2	SEA-007: Bornholm Basin	62	4	Harbour seal	0.174	sub-GES	0.8	High
+11	2	SEA-010: Western Gotland Basin	62	4	Harbour seal	0.174	sub-GES	0.7083	Intermediate
+12	2	SEA-011: Gulf of Riga	63	4	Ringed seal	0.108	sub-GES	0.75	Intermediate
+13	2	SEA-012: Northern Baltic Proper	63	4	Ringed seal	0.108	sub-GES	0.75	Intermediate
+14	2	SEA-013: Gulf of Finland	63	4	Ringed seal	0.108	sub-GES	0.7083	Intermediate
+15	2	SEA-014: Åland Sea	63	4	Ringed seal	0.108	sub-GES	0.7083	Intermediate
+16	2	SEA-015: Bothnian Sea	63	4	Ringed seal	0.15	sub-GES	0.7188	Intermediate
+17	2	SEA-016: The Quark	63	4	Ringed seal	0.15	sub-GES	0.7857	High
+18	2	SEA-017: Bothnian Bay	63	4	Ringed seal	0.15	sub-GES	0.7857	High

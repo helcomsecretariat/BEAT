@@ -1,0 +1,28 @@
+SAUID	SAUlevel	SAU	ECID	EClevel	EcosystemComponent	EQR	Status	Conf	ConfClass
+19	3	SEA-001: Kattegat - Opensea	5	2	Pelagic habitat	0.5893	sub-GES	0.75	Intermediate
+22	3	SEA-004: Kiel Bay - Opensea	5	2	Pelagic habitat	0.5455	sub-GES	0.75	Intermediate
+23	3	SEA-005: Bay of Mecklenburg - Opensea	5	2	Pelagic habitat	0.4674	sub-GES	0.75	Intermediate
+24	3	SEA-006: Arkona Basin - Opensea	5	2	Pelagic habitat	0.5445	sub-GES	0.9375	High
+25	3	SEA-007: Bornholm Basin - Opensea	5	2	Pelagic habitat	0.4482	sub-GES	0.7404	Intermediate
+26	3	SEA-008: Gdansk Basin - Opensea	5	2	Pelagic habitat	0.5309	sub-GES	0.625	Intermediate
+27	3	SEA-009: Eastern Gotland Basin - Opensea	5	2	Pelagic habitat	0.4386	sub-GES	0.8438	High
+28	3	SEA-010: Western Gotland Basin - Opensea	5	2	Pelagic habitat	0.3896	sub-GES	0.8125	High
+29	3	SEA-011: Gulf of Riga - Opensea	5	2	Pelagic habitat	0.382	sub-GES	0.8438	High
+30	3	SEA-012: Northern Baltic Proper - Opensea	5	2	Pelagic habitat	0.2216	sub-GES	0.8125	High
+31	3	SEA-013: Gulf of Finland - Opensea	5	2	Pelagic habitat	0.4448	sub-GES	0.8125	High
+32	3	SEA-014: Åland Sea - Opensea	5	2	Pelagic habitat	0.1912	sub-GES	0.6875	Intermediate
+33	3	SEA-015: Bothnian Sea - Opensea	5	2	Pelagic habitat	0.3328	sub-GES	0.7813	High
+35	3	SEA-017: Bothnian Bay - Opensea	5	2	Pelagic habitat	0.2923	sub-GES	0.7813	High
+36	3	1: Bothnian Bay Finnish Coastal waters	5	2	Pelagic habitat	0.5036	sub-GES	0.875	High
+38	3	3: The Quark Finnish Coastal waters	5	2	Pelagic habitat	0.4095	sub-GES	0.875	High
+39	3	4: The Quark Swedish Coastal waters	5	2	Pelagic habitat	0.7422	GES	0.75	Intermediate
+43	3	8: Åland Sea - Archipelago Sea Finnish coastal water	5	2	Pelagic habitat	0.5757	sub-GES	0.875	High
+46	3	11: Gulf of Finland Finnish coastal waters	5	2	Pelagic habitat	0.5924	sub-GES	0.875	High
+47	3	12: Gulf of Finland Estonian Coastal waters	5	2	Pelagic habitat	0.4836	sub-GES	0.875	High
+49	3	14: Gulf of Riga Estonian Coastal waters	5	2	Pelagic habitat	0.5382	sub-GES	0.875	High
+50	3	15: Gulf of Riga Latvian Coastal waters	5	2	Pelagic habitat	0.6235	GES	0.75	Intermediate
+51	3	16: Western Gotland Basin Swedish Coastal waters	5	2	Pelagic habitat	0.5408	sub-GES	0.75	Intermediate
+54	3	19: Eastern Gotland Basin Lithuanian Coastal waters	5	2	Pelagic habitat	0.5636	sub-GES	0.875	High
+59	3	24: Gdansk Basin Polish Coastal waters	5	2	Pelagic habitat	0.56	sub-GES	0.875	High
+67	3	32: Mecklenburg Bight German Coastal waters	5	2	Pelagic habitat	0.6211	GES	0.875	High
+70	3	35: Kiel Bight German Coastal waters	5	2	Pelagic habitat	0.6216	GES	0.75	Intermediate
